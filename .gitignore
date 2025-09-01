@@ -4,10 +4,10 @@ frontend/.env
 frontend/build/
 
 # Java / Spring Boot
-backend/target/
-backend/.env
-backend/.idea/
-backend/*.iml
+lex_events/target/
+lex_events/.env
+lex_events/.idea/
+lex_events/*.iml
 
 # OS / Editor junk
 .DS_Store
